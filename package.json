@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/corporis-ullam-velit-fuga",
-  "version": "13.44.463",
+  "version": "13.44.464",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -490,5 +490,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/corporis-ullam-velit-fuga/issues"
   },
-  "packageManager": "yarn@4.10.2"
+  "packageManager": "yarn@4.10.3"
 }
